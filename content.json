@@ -27,18 +27,18 @@
     "zh": "边缘智能。<br><em>可持续网络。</em>"
   },
   "intro": {
-    "en": "I study intelligent resource orchestration and sustainable edge computing across integrated space–air–ground–sea networks.",
-    "zh": "聚焦空天地海一体化网络中的智能资源编排、绿色边缘计算与可持续网络。"
+    "en": "My research focuses on edge intelligence and green edge computing, with an emphasis on joint communication–computation–energy optimization for resource-constrained wireless networks.",
+    "zh": "聚焦边缘智能与绿色边缘计算，研究资源受限无线网络中的通信、计算与能量协同优化。"
   },
   "about": {
     "en": [
       "I am a Lecturer in the School of Computer Science at Qufu Normal University. I received my Ph.D. in Information and Communication Engineering from Dalian Maritime University in June 2026, supervised by Prof. Rongxi He.",
-      "My research brings together wireless networking, edge intelligence, and sustainable computing. I investigate how computation, communication, and energy resources can be coordinated in dynamic and resource-constrained networks, with a particular interest in maritime and island IoT.",
+      "I investigate resource allocation, computation offloading, and federated learning in energy-constrained wireless networks. My current work focuses on maritime and island IoT, with broader interests in extending these approaches to integrated space–air–ground–sea networks.",
       "Before my doctoral studies, I received an M.S. in Biomedical Engineering from Tianjin University and a B.Eng. in Automation from Inner Mongolia University."
     ],
     "zh": [
       "现任曲阜师范大学计算机学院讲师。2026 年 6 月获大连海事大学信息与通信工程博士学位，师从何荣希教授。",
-      "研究围绕无线网络、边缘智能与可持续计算展开，关注动态、资源受限网络中的通信、计算与能量协同，重点探索海上与海岛物联网中的资源优化与服务保障。",
+      "研究资源受限无线网络中的资源分配、计算卸载与联邦学习，重点关注能量约束下的海上与海岛物联网，并探索相关方法在空天地海一体化网络中的应用。",
       "此前于天津大学获得生物医学工程硕士学位，于内蒙古大学获得自动化专业学士学位。"
     ]
   },
@@ -54,8 +54,8 @@
         "zh": "边缘计算与边缘智能"
       },
       "text": {
-        "en": "Resource allocation and incentive design for distributed edge learning, with an emphasis on federated learning, digital twins, and computation offloading.",
-        "zh": "面向分布式边缘学习，研究资源分配与激励机制，关注联邦学习、数字孪生与计算卸载。"
+        "en": "Resource allocation and incentive mechanisms for edge computing and distributed learning, including computation offloading, contribution-aware federated learning, and digital-twin-assisted coordination.",
+        "zh": "研究边缘计算与分布式学习中的资源分配和激励机制，关注计算卸载、考虑参与方贡献的联邦学习与数字孪生辅助协同。"
       },
       "tags": {
         "en": [
@@ -104,8 +104,8 @@
         "zh": "空天地海一体化网络"
       },
       "text": {
-        "en": "Coordinated offloading and resource orchestration across satellite, UAV, terrestrial, and maritime networks, particularly for maritime and island IoT.",
-        "zh": "研究卫星、无人机、地面与海上网络的协同卸载和资源编排，重点面向海上与海岛物联网。"
+        "en": "Cooperative offloading and resource management for maritime and island IoT, with broader interests in satellite–UAV–terrestrial coordination within integrated space–air–ground–sea networks.",
+        "zh": "以海上与海岛物联网的协同卸载和资源管理为研究基础，进一步探索空天地海一体化网络中的卫星、无人机与地面节点协同。"
       },
       "tags": {
         "en": [
@@ -247,10 +247,6 @@
     {
       "en": "Reviewer · IEEE Transactions on Vehicular Technology",
       "zh": "审稿人 · IEEE Transactions on Vehicular Technology"
-    },
-    {
-      "en": "Oral presentation · IEEE/CIC ICCC 2023",
-      "zh": "口头报告 · IEEE/CIC ICCC 2023"
     }
   ],
   "skills": {
@@ -272,8 +268,8 @@
       "url": "",
       "title_zh": "",
       "summary": {
-        "en": "Contribution-aware incentives for clustered federated learning, formulated through a Stackelberg game.",
-        "zh": "面向聚类联邦学习，利用 Stackelberg 博弈研究考虑参与方贡献的激励机制。"
+        "en": "To account for differences in participants’ contributions, this work uses a Stackelberg game to formulate contribution-aware incentives for clustered federated learning.",
+        "zh": "针对聚类联邦学习中参与方贡献存在差异的问题，利用 Stackelberg 博弈设计考虑贡献的激励机制。"
       },
       "tag": {
         "en": "Edge intelligence",
@@ -310,8 +306,8 @@
       "url": "",
       "title_zh": "",
       "summary": {
-        "en": "Digital twins and dynamic resource allocation for hierarchical federated learning in sustainable IoT systems.",
-        "zh": "面向可持续物联网，研究数字孪生增强的分层联邦学习与动态资源分配。"
+        "en": "To coordinate resource use in hierarchical federated learning, this work combines digital-twin assistance with dynamic resource allocation for sustainable IoT systems.",
+        "zh": "围绕分层联邦学习中的资源协调问题，将数字孪生辅助与动态资源分配相结合，面向可持续物联网开展研究。"
       },
       "tag": {
         "en": "Digital twins",
@@ -332,8 +328,8 @@
       "url": "",
       "title_zh": "",
       "summary": {
-        "en": "Joint computation offloading and resource allocation for green mobile edge computing in software-defined island IoT.",
-        "zh": "面向软件定义海岛物联网，研究绿色移动边缘计算中的任务卸载与资源联合分配。"
+        "en": "To manage energy and computing resources in island IoT, this work jointly optimizes computation offloading and resource allocation within a green, software-defined MEC architecture.",
+        "zh": "围绕海岛物联网中的能量与计算资源协同，在绿色、软件定义的移动边缘计算架构下联合优化计算卸载和资源分配。"
       },
       "tag": {
         "en": "Green edge computing",
@@ -504,7 +500,7 @@
       "id": "survivability",
       "title": "Survivability-Oriented Task Offloading and Energy Scheduling for Tidal-Powered Island IoT",
       "authors": "Z. Wei, Y. Zhang, R. He, and B. Lin",
-      "venue": "IEEE Wireless Communications Letters",
+      "venue": "IEEE Communications Letters",
       "year": 2026,
       "details": "",
       "doi": "",
@@ -579,6 +575,13 @@
       "title_zh": "",
       "summary": null,
       "tag": null
+    }
+  ],
+  "show_orcid": false,
+  "activities": [
+    {
+      "en": "Oral presentation · IEEE/CIC ICCC 2023",
+      "zh": "口头报告 · IEEE/CIC ICCC 2023"
     }
   ]
 }
