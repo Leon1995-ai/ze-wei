@@ -1,0 +1,584 @@
+{
+  "name": {
+    "en": "Ze Wei",
+    "zh": "魏泽"
+  },
+  "email": "wlltdlmu@163.com",
+  "orcid": "0009-0006-3838-3790",
+  "updated": "2026-09-14",
+  "role": {
+    "en": "Lecturer",
+    "zh": "讲师"
+  },
+  "school": {
+    "en": "School of Computer Science",
+    "zh": "计算机学院"
+  },
+  "university": {
+    "en": "Qufu Normal University",
+    "zh": "曲阜师范大学"
+  },
+  "location": {
+    "en": "Rizhao, China",
+    "zh": "中国 · 日照"
+  },
+  "hero": {
+    "en": "Edge intelligence.<br><em>Sustainable networks.</em>",
+    "zh": "边缘智能。<br><em>可持续网络。</em>"
+  },
+  "intro": {
+    "en": "I study intelligent resource orchestration and sustainable edge computing across integrated space–air–ground–sea networks.",
+    "zh": "聚焦空天地海一体化网络中的智能资源编排、绿色边缘计算与可持续网络。"
+  },
+  "about": {
+    "en": [
+      "I am a Lecturer in the School of Computer Science at Qufu Normal University. I received my Ph.D. in Information and Communication Engineering from Dalian Maritime University in June 2026, supervised by Prof. Rongxi He.",
+      "My research brings together wireless networking, edge intelligence, and sustainable computing. I investigate how computation, communication, and energy resources can be coordinated in dynamic and resource-constrained networks, with a particular interest in maritime and island IoT.",
+      "Before my doctoral studies, I received an M.S. in Biomedical Engineering from Tianjin University and a B.Eng. in Automation from Inner Mongolia University."
+    ],
+    "zh": [
+      "现任曲阜师范大学计算机学院讲师。2026 年 6 月获大连海事大学信息与通信工程博士学位，师从何荣希教授。",
+      "研究围绕无线网络、边缘智能与可持续计算展开，关注动态、资源受限网络中的通信、计算与能量协同，重点探索海上与海岛物联网中的资源优化与服务保障。",
+      "此前于天津大学获得生物医学工程硕士学位，于内蒙古大学获得自动化专业学士学位。"
+    ]
+  },
+  "research": [
+    {
+      "key": "intelligence",
+      "label": {
+        "en": "LEARNING AT THE EDGE",
+        "zh": "边缘智能"
+      },
+      "title": {
+        "en": "Edge Computing & Edge Intelligence",
+        "zh": "边缘计算与边缘智能"
+      },
+      "text": {
+        "en": "Resource allocation and incentive design for distributed edge learning, with an emphasis on federated learning, digital twins, and computation offloading.",
+        "zh": "面向分布式边缘学习，研究资源分配与激励机制，关注联邦学习、数字孪生与计算卸载。"
+      },
+      "tags": {
+        "en": [
+          "Federated learning",
+          "Digital twins"
+        ],
+        "zh": [
+          "联邦学习",
+          "数字孪生"
+        ]
+      }
+    },
+    {
+      "key": "sustainability",
+      "label": {
+        "en": "SUSTAINABLE COMPUTING",
+        "zh": "可持续计算"
+      },
+      "title": {
+        "en": "Green Edge Computing & Sustainable Networks",
+        "zh": "绿色边缘计算与可持续网络"
+      },
+      "text": {
+        "en": "Joint communication–computation–energy optimization for renewable-powered edge systems, including energy-aware scheduling and resilient service provisioning.",
+        "zh": "面向可再生能源供能的边缘系统，研究通信、计算与能量联合优化、能量感知调度及韧性服务保障。"
+      },
+      "tags": {
+        "en": [
+          "Energy-aware scheduling",
+          "Resilience"
+        ],
+        "zh": [
+          "能量感知调度",
+          "韧性保障"
+        ]
+      }
+    },
+    {
+      "key": "networks",
+      "label": {
+        "en": "CONNECTED SYSTEMS",
+        "zh": "协同网络"
+      },
+      "title": {
+        "en": "Integrated Space–Air–Ground–Sea Networks",
+        "zh": "空天地海一体化网络"
+      },
+      "text": {
+        "en": "Coordinated offloading and resource orchestration across satellite, UAV, terrestrial, and maritime networks, particularly for maritime and island IoT.",
+        "zh": "研究卫星、无人机、地面与海上网络的协同卸载和资源编排，重点面向海上与海岛物联网。"
+      },
+      "tags": {
+        "en": [
+          "Maritime IoT",
+          "Resource orchestration"
+        ],
+        "zh": [
+          "海上物联网",
+          "资源编排"
+        ]
+      }
+    }
+  ],
+  "methods": {
+    "en": [
+      "Nonconvex optimization",
+      "Game theory",
+      "Deep reinforcement learning",
+      "Federated learning"
+    ],
+    "zh": [
+      "非凸优化",
+      "博弈论",
+      "深度强化学习",
+      "联邦学习"
+    ]
+  },
+  "selected": [
+    "incentive",
+    "island",
+    "twin"
+  ],
+  "education": [
+    {
+      "date": {
+        "en": "2020 — 2026",
+        "zh": "2020 — 2026"
+      },
+      "period": {
+        "en": "Sep. 2020 — Jun. 2026",
+        "zh": "2020.09 — 2026.06"
+      },
+      "degree": {
+        "en": "Ph.D. · Information and Communication Engineering",
+        "zh": "博士 · 信息与通信工程"
+      },
+      "institution": {
+        "en": "Dalian Maritime University",
+        "zh": "大连海事大学"
+      },
+      "note": {
+        "en": "Advisor: Prof. Rongxi He",
+        "zh": "导师：何荣希教授"
+      }
+    },
+    {
+      "date": {
+        "en": "2017 — 2020",
+        "zh": "2017 — 2020"
+      },
+      "period": {
+        "en": "Sep. 2017 — Jun. 2020",
+        "zh": "2017.09 — 2020.06"
+      },
+      "degree": {
+        "en": "M.S. · Biomedical Engineering",
+        "zh": "硕士 · 生物医学工程"
+      },
+      "institution": {
+        "en": "Tianjin University",
+        "zh": "天津大学"
+      },
+      "note": {
+        "en": "Advisors: Prof. Dong Ming and Prof. Minpeng Xu",
+        "zh": "导师：明东教授、许敏鹏教授"
+      }
+    },
+    {
+      "date": {
+        "en": "2013 — 2017",
+        "zh": "2013 — 2017"
+      },
+      "period": {
+        "en": "Sep. 2013 — Jun. 2017",
+        "zh": "2013.09 — 2017.06"
+      },
+      "degree": {
+        "en": "B.Eng. · Automation",
+        "zh": "学士 · 自动化"
+      },
+      "institution": {
+        "en": "Inner Mongolia University",
+        "zh": "内蒙古大学"
+      },
+      "note": {
+        "en": "",
+        "zh": ""
+      }
+    }
+  ],
+  "project": {
+    "number": "62371085",
+    "title": {
+      "en": "Resource deployment and scheduling in integrated communication–computing networks for maritime service assurance",
+      "zh": "面向海上业务保障的通算融合网络资源部署与调度关键技术"
+    },
+    "funder": {
+      "en": "National Natural Science Foundation of China",
+      "zh": "国家自然科学基金"
+    },
+    "role": {
+      "en": "Research participant",
+      "zh": "项目参与人"
+    }
+  },
+  "awards": [
+    {
+      "en": "Outstanding Graduate, Dalian Maritime University · 2026",
+      "zh": "大连海事大学优秀毕业生 · 2026"
+    },
+    {
+      "en": "Best Paper Award, Tsinghua High-Level Forum",
+      "zh": "清华高水平学术论坛最佳论文奖"
+    },
+    {
+      "en": "National Champion, China Robot Competition and RoboCup Open",
+      "zh": "中国机器人大赛暨 RoboCup 公开赛全国冠军"
+    }
+  ],
+  "award_note": {
+    "en": "As team captain in the robot competition, I led robot control algorithm development and hardware debugging.",
+    "zh": "在机器人大赛中担任队长，负责机器人控制算法开发与硬件调试。"
+  },
+  "services": [
+    {
+      "en": "Reviewer · IEEE Internet of Things Journal",
+      "zh": "审稿人 · IEEE Internet of Things Journal"
+    },
+    {
+      "en": "Reviewer · IEEE Transactions on Vehicular Technology",
+      "zh": "审稿人 · IEEE Transactions on Vehicular Technology"
+    },
+    {
+      "en": "Oral presentation · IEEE/CIC ICCC 2023",
+      "zh": "口头报告 · IEEE/CIC ICCC 2023"
+    }
+  ],
+  "skills": {
+    "en": "Python, MATLAB, PyTorch, and CVX for optimization, simulation, and learning-based resource scheduling.",
+    "zh": "使用 Python、MATLAB、PyTorch 与 CVX 开展优化求解、仿真和基于学习的资源调度研究。"
+  },
+  "papers": [
+    {
+      "id": "incentive",
+      "title": "Contribution-Aware Incentive Mechanism for Clustered Federated Learning: A Stackelberg Game Approach",
+      "authors": "Z. Wei, R. He, C. Song, X. Chen, and M. Li",
+      "venue": "IEEE Internet of Things Journal",
+      "year": 2026,
+      "details": "13(4), 6401–6421",
+      "doi": "10.1109/JIOT.2025.3635589",
+      "kind": "journal",
+      "status": "published",
+      "early": false,
+      "url": "",
+      "title_zh": "",
+      "summary": {
+        "en": "Contribution-aware incentives for clustered federated learning, formulated through a Stackelberg game.",
+        "zh": "面向聚类联邦学习，利用 Stackelberg 博弈研究考虑参与方贡献的激励机制。"
+      },
+      "tag": {
+        "en": "Edge intelligence",
+        "zh": "边缘智能"
+      }
+    },
+    {
+      "id": "anxiety",
+      "title": "Differentiated Offloading and Resource Allocation With Energy Anxiety Level Consideration in Heterogeneous Maritime Internet of Things",
+      "authors": "Z. Wei, R. He, C. Song, and X. Chen",
+      "venue": "IEEE Transactions on Network and Service Management",
+      "year": 2026,
+      "details": "23, 2166–2189",
+      "doi": "10.1109/TNSM.2026.3655385",
+      "kind": "journal",
+      "status": "published",
+      "early": false,
+      "url": "",
+      "title_zh": "",
+      "summary": null,
+      "tag": null
+    },
+    {
+      "id": "twin",
+      "title": "Dynamic resource allocation for digital twin-enhanced hierarchical federated learning in sustainable Internet of Things",
+      "authors": "Z. Wei, R. He, X. Chen, and C. Song",
+      "venue": "Computer Communications",
+      "year": 2026,
+      "details": "248, Article 108410",
+      "doi": "10.1016/j.comcom.2025.108410",
+      "kind": "journal",
+      "status": "published",
+      "early": false,
+      "url": "",
+      "title_zh": "",
+      "summary": {
+        "en": "Digital twins and dynamic resource allocation for hierarchical federated learning in sustainable IoT systems.",
+        "zh": "面向可持续物联网，研究数字孪生增强的分层联邦学习与动态资源分配。"
+      },
+      "tag": {
+        "en": "Digital twins",
+        "zh": "数字孪生"
+      }
+    },
+    {
+      "id": "island",
+      "title": "Joint Computation Offloading and Resource Allocation in Green MEC-Assisted Software-Defined Island Internet of Things",
+      "authors": "Z. Wei, R. He, H. Liu, and C. Song",
+      "venue": "IEEE Internet of Things Journal",
+      "year": 2025,
+      "details": "12(1), 140–162",
+      "doi": "10.1109/JIOT.2024.3459098",
+      "kind": "journal",
+      "status": "published",
+      "early": false,
+      "url": "",
+      "title_zh": "",
+      "summary": {
+        "en": "Joint computation offloading and resource allocation for green mobile edge computing in software-defined island IoT.",
+        "zh": "面向软件定义海岛物联网，研究绿色移动边缘计算中的任务卸载与资源联合分配。"
+      },
+      "tag": {
+        "en": "Green edge computing",
+        "zh": "绿色边缘计算"
+      }
+    },
+    {
+      "id": "drl",
+      "title": "DRL-Based Computation Offloading and Resource Allocation in Green MEC-Enabled Maritime-IoT Networks",
+      "authors": "Z. Wei, R. He, Y. Li, and C. Song",
+      "venue": "Electronics",
+      "year": 2023,
+      "details": "12(24), Article 4967",
+      "doi": "10.3390/electronics12244967",
+      "kind": "journal",
+      "status": "published",
+      "early": false,
+      "url": "",
+      "title_zh": "",
+      "summary": null,
+      "tag": null
+    },
+    {
+      "id": "conference",
+      "title": "Deep Reinforcement Learning Based Task Offloading and Resource Allocation for MEC-Enabled IoT Networks",
+      "authors": "Z. Wei, R. He, and Y. Li",
+      "venue": "IEEE/CIC International Conference on Communications in China Workshops (ICCC Workshops)",
+      "year": 2023,
+      "details": "Dalian, China, pp. 1–6",
+      "doi": "10.1109/ICCCWorkshops57813.2023.10233832",
+      "kind": "conference",
+      "status": "published",
+      "early": false,
+      "url": "",
+      "title_zh": "",
+      "summary": null,
+      "tag": null
+    },
+    {
+      "id": "pruning",
+      "title": "Communication-efficient layer pruning for hierarchical federated learning",
+      "authors": "H. Liu, Z. Wei, and R. He",
+      "venue": "Telecommunication Engineering",
+      "year": 2026,
+      "details": "66(2), 247–258",
+      "doi": "",
+      "kind": "journal",
+      "status": "published",
+      "early": false,
+      "url": "",
+      "title_zh": "分层联邦学习中通信高效层剪枝算法",
+      "summary": null,
+      "tag": null
+    },
+    {
+      "id": "optical",
+      "title": "Auxiliary-Graph-Based Traffic Grooming With Hybrid Single/Multipath Routing in Mixed-Grid Optical Networks",
+      "authors": "C. Song, R. He, Z. Wei, and X. Chen",
+      "venue": "Journal of Lightwave Technology",
+      "year": 2025,
+      "details": "43(12), 5653–5668",
+      "doi": "",
+      "kind": "journal",
+      "status": "published",
+      "early": false,
+      "url": "https://ieeexplore.ieee.org/document/10935616/",
+      "title_zh": "",
+      "summary": null,
+      "tag": null
+    },
+    {
+      "id": "uav",
+      "title": "Joint offloading and resource allocation for DRL-based UAV-assisted maritime Internet of Things",
+      "authors": "Y. Li, Z. Wei, and R. He",
+      "venue": "Modern Electronics Technique",
+      "year": 2025,
+      "details": "48(3), 141–148",
+      "doi": "",
+      "kind": "journal",
+      "status": "published",
+      "early": false,
+      "url": "",
+      "title_zh": "基于DRL的UAV辅助海上物联网联合卸载和资源分配",
+      "summary": null,
+      "tag": null
+    },
+    {
+      "id": "spectrum",
+      "title": "Make-before-break based spectrum defragmentation in mixed-grid optical networks",
+      "authors": "C. Song, R. He, X. Chen, and Z. Wei",
+      "venue": "Optical Fiber Technology",
+      "year": 2024,
+      "details": "88, Article 103838",
+      "doi": "10.1016/j.yofte.2024.103838",
+      "kind": "journal",
+      "status": "published",
+      "early": false,
+      "url": "",
+      "title_zh": "",
+      "summary": null,
+      "tag": null
+    },
+    {
+      "id": "motor",
+      "title": "Motor imagery research for post-stroke motor rehabilitation",
+      "authors": "M. Xu, Z. Wei, D. Ming, et al.",
+      "venue": "Journal of Biomedical Engineering",
+      "year": 2020,
+      "details": "37(1), 169–173",
+      "doi": "",
+      "kind": "journal",
+      "status": "published",
+      "early": true,
+      "url": "",
+      "title_zh": "基于脑卒中后运动康复领域的运动想象的研究",
+      "summary": null,
+      "tag": null
+    },
+    {
+      "id": "rhythmic",
+      "title": "Effects of rhythmic transcranial alternating current stimulation on motor sequence learning",
+      "authors": "Z. Wei, M. Xu, D. Ming, et al.",
+      "venue": "Chinese Journal of Rehabilitation Theory and Practice",
+      "year": 2019,
+      "details": "25(11), 1327–1331",
+      "doi": "",
+      "kind": "journal",
+      "status": "published",
+      "early": true,
+      "url": "",
+      "title_zh": "节律性经颅交流电刺激对运动序列学习能力的影响",
+      "summary": null,
+      "tag": null
+    },
+    {
+      "id": "twenty",
+      "title": "Effects of 20-Hz transcranial alternating current stimulation on motor sequence learning",
+      "authors": "M. Xu, Z. Wei, S. Mu, et al.",
+      "venue": "Space Medicine & Medical Engineering",
+      "year": 2019,
+      "details": "32(4), 333–339",
+      "doi": "",
+      "kind": "journal",
+      "status": "published",
+      "early": true,
+      "url": "",
+      "title_zh": "20 Hz经颅交流电刺激对运动序列学习能力的影响",
+      "summary": null,
+      "tag": null
+    },
+    {
+      "id": "vehicular",
+      "title": "Vehicular network caching based on hybrid convolutional VAE and dynamic clustered federated learning",
+      "authors": "M. Li, Z. Wei, and R. He",
+      "venue": "Telecommunication Engineering",
+      "year": null,
+      "details": "In Chinese",
+      "doi": "",
+      "kind": "journal",
+      "status": "accepted",
+      "early": false,
+      "url": "",
+      "title_zh": "",
+      "summary": null,
+      "tag": null
+    },
+    {
+      "id": "survivability",
+      "title": "Survivability-Oriented Task Offloading and Energy Scheduling for Tidal-Powered Island IoT",
+      "authors": "Z. Wei, Y. Zhang, R. He, and B. Lin",
+      "venue": "IEEE Wireless Communications Letters",
+      "year": 2026,
+      "details": "",
+      "doi": "",
+      "kind": "journal",
+      "status": "submitted",
+      "early": false,
+      "url": "",
+      "title_zh": "",
+      "summary": null,
+      "tag": null
+    },
+    {
+      "id": "forecast",
+      "title": "Forecast-Aided Resilience Scheduling for Tidal-Powered Consumer IoT with Energy-Aware Base-Station Edge Cooperation",
+      "authors": "Z. Wei, Y. Zhang, R. He, and B. Lin",
+      "venue": "IEEE Transactions on Consumer Electronics",
+      "year": 2026,
+      "details": "",
+      "doi": "",
+      "kind": "journal",
+      "status": "submitted",
+      "early": false,
+      "url": "",
+      "title_zh": "",
+      "summary": null,
+      "tag": null
+    },
+    {
+      "id": "industrial",
+      "title": "Digital-Twin-Assisted Multi-Timescale AI Service Deployment and Inference Orchestration for Industrial Edge Networks",
+      "authors": "Y. Zhang, Z. Wei*, Z. Na, and B. Lin",
+      "venue": "IEEE Transactions on Services Computing",
+      "year": 2026,
+      "details": "",
+      "doi": "",
+      "kind": "journal",
+      "status": "submitted",
+      "early": false,
+      "url": "",
+      "title_zh": "",
+      "summary": null,
+      "tag": null
+    },
+    {
+      "id": "learning",
+      "title": "Learning-Augmented Online Task-Energy Co-Reconfiguration for Freshness-Aware Maritime Edge Computing",
+      "authors": "Z. Wei, Y. Zhang, R. He, B. Lin, and G. Li",
+      "venue": "IEEE Transactions on Mobile Computing",
+      "year": 2026,
+      "details": "",
+      "doi": "",
+      "kind": "journal",
+      "status": "submitted",
+      "early": false,
+      "url": "",
+      "title_zh": "",
+      "summary": null,
+      "tag": null
+    },
+    {
+      "id": "grid",
+      "title": "Grid-Certifiable Spatio-Temporal Computing Flexibility for Renewable-Rich Distribution Networks",
+      "authors": "Z. Wei, Y. Zhang, R. He, B. Lin, and G. Li",
+      "venue": "IEEE Transactions on Sustainable Energy",
+      "year": 2026,
+      "details": "",
+      "doi": "",
+      "kind": "journal",
+      "status": "submitted",
+      "early": false,
+      "url": "",
+      "title_zh": "",
+      "summary": null,
+      "tag": null
+    }
+  ]
+}
